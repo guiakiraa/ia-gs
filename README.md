@@ -10,8 +10,7 @@
 
 ## Link do Vídeo
 
-[Vídeo de Apresentação](#)  
-(O link será inserido assim que estiver disponível)
+https://youtu.be/rn_ZRLXHMu8?si=OZxB_I5yzMV8bJxR
 
 ## Resumo da Solução — TRIA URBAN
 
